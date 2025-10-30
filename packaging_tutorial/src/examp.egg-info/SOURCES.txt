@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/examp/__init__.py
+src/examp/example.py
+src/examp.egg-info/PKG-INFO
+src/examp.egg-info/SOURCES.txt
+src/examp.egg-info/dependency_links.txt
+src/examp.egg-info/top_level.txt
+tests/test1.py
